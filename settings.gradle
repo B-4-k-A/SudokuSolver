@@ -1,2 +1,2 @@
-rootProject.name = 'Sudoku solver'
-
+include ':app', ':lib'
+rootProject.name = "Sudoku"
